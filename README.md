@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+  [![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
+
 <h1 align="center">Hi 👋, I'm Yashshree Kirad</h1>
 <h3 align="center">Driven by a genuine passion for innovation and a relentless pursuit of knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
